@@ -1,17 +1,18 @@
-# English Portfolio Refresh
-
-## Main updates
-
-- Rewrote the public README in English for HR and engineering review.
-- Standardized the repository summary, reviewer map, evidence highlights, scope boundaries and release/tag links.
-- Preserved an evidence-first tone: clear technical nouns, bounded claims and no production ownership beyond the repository material.
-
-## Repository evidence
-
-- Android device-tree reference for Xiaomi Redmi Note 8/ginkgo.
-- ROM-build and hardware-abstraction study material.
-- Platform-configuration context for Android development.
+# English Visual Portfolio Refresh - 2026-06-02
 
 ## Scope
 
-Fork reference and historical Android-platform material. It is not presented as an actively maintained device bring-up project.
+This refresh keeps `device_xiaomi_ginkgo-1` aligned with an English-facing engineering portfolio for HR and technical review.
+
+## Changes
+
+- Added an ASCII-safe animated SVG visual under `assets/portfolio-motion.svg`.
+- Embedded the visual in `README.md` for immediate GitHub rendering.
+- Standardized Markdown and binary asset handling through `.gitattributes`.
+- Kept the repository description evidence-first and scoped to: Android platform reference.
+
+## Review Context
+
+Primary stack: Android device tree, ROM build workflow, hardware abstraction, platform configuration.
+
+The repository remains bounded to its real artifacts and does not claim production ownership beyond what the source tree, reports, code or release assets can support.
