@@ -21,7 +21,7 @@
   <circle cx="1040" cy="72" r="42" fill="#1e293b" />
   <circle class="pulse" cx="1040" cy="72" r="24" fill="#38bdf8" opacity=".85" />
   <rect x="50" y="48" width="760" height="118" rx="20" class="panel" />
-  <text x="82" y="105" class="title">Xiaomi Redmi Note 8 Device-Tree Reference</text>
+  <text x="82" y="105" class="title">Redmi Note 8 Device Tree</text>
   <text x="84" y="143" class="subtitle">Android platform reference</text>
   <rect x="850" y="48" width="300" height="118" rx="20" class="panel2" />
   <text x="878" y="92" class="subtitle">Portfolio Signal</text>
@@ -35,10 +35,10 @@
     <circle class="node pulse" cx="1080" cy="236" r="28" />
   </g>
   <g>
-    <rect x="74" y="278" width="138" height="34" rx="17" class="chip" /><text x="143" y="301" text-anchor="middle" class="small">Android device tree</text>
-    <rect x="300" y="278" width="160" height="34" rx="17" class="chip" /><text x="380" y="301" text-anchor="middle" class="small">ROM build workflow</text>
-    <rect x="532" y="278" width="176" height="34" rx="17" class="chip" /><text x="620" y="301" text-anchor="middle" class="small">hardware abstraction</text>
-    <rect x="774" y="278" width="172" height="34" rx="17" class="chip" /><text x="860" y="301" text-anchor="middle" class="small">platform configuration</text>
+    <rect x="74" y="278" width="138" height="34" rx="17" class="chip" /><text x="143" y="301" text-anchor="middle" class="small">device tree</text>
+    <rect x="300" y="278" width="160" height="34" rx="17" class="chip" /><text x="380" y="301" text-anchor="middle" class="small">ROM build</text>
+    <rect x="532" y="278" width="176" height="34" rx="17" class="chip" /><text x="620" y="301" text-anchor="middle" class="small">HAL reference</text>
+    <rect x="774" y="278" width="172" height="34" rx="17" class="chip" /><text x="860" y="301" text-anchor="middle" class="small">platform config</text>
     <rect x="1000" y="278" width="160" height="34" rx="17" class="chip" /><text x="1080" y="301" text-anchor="middle" class="small">portfolio</text>
   </g>
   <text x="66" y="200" class="body">Forked Android device-tree reference for Xiaomi Redmi Note 8/ginkgo.</text>
